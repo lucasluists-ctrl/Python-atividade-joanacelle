@@ -1,0 +1,4 @@
+valor = int(input("digite um valor:"))
+print("valor digitado:", valor)
+print("tipo de variável:", type(valor))
+<< class 'int' >>
