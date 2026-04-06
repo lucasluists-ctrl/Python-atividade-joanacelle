@@ -1,0 +1,5 @@
+valor = float(input("adicione um valor"))
+if valor < 0 or valor > 100:
+  print("Valor fora do intervalo:", valor)
+else:
+  print("Dentro do intervalo") 
